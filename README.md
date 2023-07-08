@@ -12,3 +12,4 @@ chmod +x install.sh
 
 ./install.sh
 
+sudo chmod +x /opt/kitty/bin/kitty
