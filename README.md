@@ -5,7 +5,7 @@ Instalación
 
 git clone https://github.com/XLxbx/lxbx-kali.git
 
-cd loxbx-bspwm-kali
+cd lxbx-kali
 
 chmod +x install.sh
 
