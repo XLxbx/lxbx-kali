@@ -62,6 +62,3 @@ setxkbmap -layout es
 #COPIAR Y PEGAR FUERA DE LA CAJA 
 re-user-suid-wrapper &
 
-#BLOQUEO DE PANTALLA AUTOMATICO 
-pkill xautolock
-xautolock -time 5 -locker "betterlockscreen -l" -notify 30 -notifier "notify-send 'Locker' 'Locking screen in 30 seconds'" -killtime 5 -killer "systemctl suspend" &
