@@ -2,6 +2,7 @@
 BSPWM para Kali 
 
 Instalación 
+(actualizar)
 
 git clone https://github.com/XLxbx/lxbx-kali.git
 
