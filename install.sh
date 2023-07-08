@@ -115,12 +115,13 @@ sudo ln -s -fv ~/.zshrc /root/.zshrc
 
 chmod +x ~/.config/bspwm/bspwmrc
 chmod +x ~/.config/bspwm/scripts/bspwm_resize
-chmod +x ~/.config/bin/ethernet_status.sh
-chmod +x ~/.config/bin/htb_status.sh
-chmod +x ~/.config/bin/htb_target.sh
+chmod +x ~/.config/bin/ethernet_local.sh
+chmod +x ~/.config/bin/vpn_status.sh
+chmod +x ~/.config/bin/target.sh
 chmod +x ~/.config/polybar/launch.sh
 sudo chmod +x /usr/local/bin/whichSystem.py
 sudo chmod +x /usr/local/bin/screenshot
+sudo chmod +x /opt/kitty/bin/kitty
 
 # Configuramos el Tema de Rofi
 
