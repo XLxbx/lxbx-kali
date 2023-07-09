@@ -140,6 +140,9 @@ super + shift + f
 # BurpSuite
 super + shift + b
 	burpsuite
+#Abrir administrador de archivo 
+super + p 
+	nautilus
 
 ###############
 # ScreenShots #
