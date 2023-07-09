@@ -135,7 +135,7 @@ super + alt + {Left,Down,Up,Right}
 
 # Firefox
 super + shift + f
-	/opt/firefox/firefox
+	firefox
 
 # BurpSuite
 super + shift + b
